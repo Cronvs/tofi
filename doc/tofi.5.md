@@ -36,6 +36,12 @@ options.
 >
 > Default: false
 
+**mouse**=*true\|false*
+
+> Enable the mouse for selection.
+>
+> Default: false
+
 **text-cursor**=*true\|false*
 
 > Show a text cursor in the input field.
@@ -483,6 +489,16 @@ options.
 **selection-background-corner-radius**=*px*
 
 > Corner radius of the selected result background. Default: 0
+
+**results-vert-spacing**=*px*
+> Vertical spacing before results. Can be negative.
+>
+> Default: 0
+
+**results-hori-spacing**=*px*
+> Horizontal spacing before results. Can be negative.
+>
+> Default: 0
 
 **result-spacing**=*px*
 
